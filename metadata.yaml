@@ -1,0 +1,43 @@
+_repo: Green-Mansions--A-Romance-of-the-Tropical-Forest_942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: "For the 1959 Audrey Hepburn film of this title, see Green Mansions (film).\n\
+  Green Mansions: A Romance of the Tropical Forest (1904) is an exotic romance by\
+  \ William Henry Hudson about a traveller to the Guyana jungle of southeastern Venezuela\
+  \ and his encounter with a forest dwelling girl named Rima.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '942'
+  wikidata: Q605921
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Wild women -- Fiction'
+- !lcsh 'Rain forests -- Fiction'
+- !lcsh 'South America -- Fiction'
+- GITenberg
+title: 'Green Mansions: A Romance of the Tropical Forest'
+url: http://www.gutenberg.org/ebooks/942
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E7%B7%91%E3%81%AE%E9%A4%A8
+- https://pt.wikipedia.org/wiki/Verdes_Moradas
+- https://simple.wikipedia.org/wiki/Green_Mansions
+- https://en.wikisource.org/wiki/Green_Mansions
+- https://en.wikipedia.org/wiki/Green_Mansions
+- https://sv.wikipedia.org/wiki/Gr%C3%B6nskande_boningar
